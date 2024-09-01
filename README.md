@@ -1,7 +1,7 @@
 ## Linux File Permission
 
 ### Description: 
-A project that explores Linux file permissions and how to manage them securely.
+This project explores Linux file permissions and how to manage them securely. It features scripts and examples to illustrate best practices for securing file systems in a Linux environment.
 
 ### Key Features:
 * Detailed explanation of Linux file permission model
