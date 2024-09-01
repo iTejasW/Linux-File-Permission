@@ -1,10 +1,20 @@
-## Activity Overview
+## Linux File Permission
 
-In this activity, i created a new portfolio document to demonstrate my experience using Linux commands to manage file permissions.
+### Description: 
+A project that explores Linux file permissions and how to manage them securely.
 
+### Key Features:
+* Detailed explanation of Linux file permission model
+* Scripts to manage and modify file permissions
+* Examples of common permission configurations
 
-## Scenario
-
-You are a security professional at a large organization. You mainly work with their research team. Part of your job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure. 
-
-Your task is to examine existing permissions on the file system. You’ll need to determine if the permissions match the authorization that should be given. If they do not match, you’ll need to modify the permissions to authorize the appropriate users and remove any unauthorized access.
+### Skills Required:
+* Understanding of Linux file systems and permissions
+* Bash scripting and command-line proficiency
+* Security best practices for file permissions
+* Secure Coding
+  
+### Technologies Used:
+* Linux operating system
+* Bash scripting
+* File permission management tools
