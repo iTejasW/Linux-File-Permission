@@ -12,7 +12,6 @@ This project explores Linux file permissions and how to manage them securely. It
 * Understanding of Linux file systems and permissions
 * Bash scripting and command-line proficiency
 * Security best practices for file permissions
-* Secure Coding
   
 ### Technologies Used:
 * Linux operating system
